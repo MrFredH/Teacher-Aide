@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Teacher_Aide.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Teacher_Aide.UWP"
+    RequestedTheme="Light">
+
+</Application>
